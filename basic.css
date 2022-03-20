@@ -83,11 +83,3 @@ div.desc {
   display: table;
   clear: both;
 }
-
-div.exlinks {
-				margin: 50px;
-}
-
-a.exlinks {
-				margin: -5px;
-}
