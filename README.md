@@ -1,2 +1,2 @@
-# OSMuseum
-Basically just a bunch of screenshots of old operating systems 
+# Personal website
+My personal website. Now includes SoftMuseum (gallery for operating systems and applications in the past) inside 
