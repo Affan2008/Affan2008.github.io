@@ -46,8 +46,10 @@ li a:hover {
 
 div.gallery {
   border: 1px solid #ccc;
-  margin-top: 5px;
-  margin-bottom: 5px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 div.gallery:hover {
